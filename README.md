@@ -74,9 +74,3 @@ From CRMs to Dashboards to E-commerce, I focus on creating <b>clean, responsive,
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>  
 </p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sidra-Yasmeen&color=blue&style=flat-square"/>  
-</p>
