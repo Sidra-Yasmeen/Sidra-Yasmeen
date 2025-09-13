@@ -42,14 +42,6 @@ From CRMs to Dashboards to E-commerce, I focus on creating <b>clean, responsive,
 
 ---
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidra-Yasmeen&theme=tokyonight&row=1&column=8" alt="trophies"/>
-</p>
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -59,19 +51,26 @@ From CRMs to Dashboards to E-commerce, I focus on creating <b>clean, responsive,
 
 ---
 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sidra-Yasmeen&theme=tokyonight&row=1&column=8" alt="trophies"/>
+</p>
+
+---
 ## 📫 Connect With Me  
 
 <p align="center">
 <a href="https://www.freelancer.com/u/Sidra786bisma">
   <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
 </a>  
-<a href="https://www.upwork.com">
+<a href="https://www.upwork.com/freelancers/~01c5f868feb4f829d1?mp_source=share">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>  
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/sidra-yasmeen-044712329/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
-<a href="mailto:your-email@example.com">
+<a href="mailto:sidrayasmeen081@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>  
 </p>
