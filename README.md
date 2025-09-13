@@ -42,6 +42,14 @@ From CRMs to Dashboards to E-commerce, I focus on creating <b>clean, responsive,
 
 ---
 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sidra-Yasmeen&theme=tokyonight&row=1&column=8" alt="trophies"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
