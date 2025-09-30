@@ -31,7 +31,7 @@ From CRMs to Dashboards to E-commerce, I focus on creating <b>clean, responsive,
 <p align="center">
 🔹 <b>Sales CRM</b> – Customer & sales management system with API integration. <br>
 🔹 <b>Inbound Calls Dashboard</b> – Filters, date range picker, and reporting for call centers. <br>
-🔹 <b>Chats Dashboard</b> – Real-time chat integration (WhatsApp, Web, Gmail, Outlook, Instagram, Facebook). <br>
+🔹 <b>Product Management Dashboard</b> – Kanban board (To Do, In Progress, Done). <br>
 🔹 <b>Urban Timepiece (E-commerce)</b> – Online store with cart, checkout, and product management. <br>
 🔹 <b>Customer Management System</b> – Advanced filters, location-based search, and dynamic tables.  
 </p>
